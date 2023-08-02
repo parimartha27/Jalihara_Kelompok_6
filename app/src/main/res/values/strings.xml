@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jalihara</string>
+    <string name="open_nav">Open</string>
+    <string name="close_nav">Close</string>
+
+    <string name="aboutUs1">JalIhara is a convenient and user-friendly mobile application that allows art enthusiasts to book tickets for various art performances, including dance, music, theater, and more. With an easy-to-use interface and a wide selection of shows to choose from, JalIhara makes it simple for users to discover and book tickets for their favorite performances in just a few clicks.</string>
+    <string name="aboutUs2">Whether you are looking for traditional Balinese dances, classical concerts, or contemporary theater performances, JalIhara offers a comprehensive selection of events and shows to suit all tastes and preferences. Users can easily browse upcoming shows, select their preferred dates and times, and book their tickets instantly, all from the comfort of their own device.</string>
+    <string name="aboutUs3">With JalIhara, users can enjoy a hassle-free and convenient way to explore the vibrant and diverse world of art performances, making it the go-to app for booking tickets for art lovers on-the-go.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
